@@ -37,8 +37,8 @@ Through "warm" memory and multiple artifacts for deeper retrieval, I devised a b
 |Category|Choice|Rationale|
 |---|---|---|
 |Project Name|Egg Drop|Named after a middle school challenge where we tried to protect eggs from a 3 story drop. Every student had a different technique and container. Mine included rice krispies.|
-|Model Provider|Anthropic|I already have a claude subscription. They also invested a lot of effort in ethics and safety early on.|
-|Model|Mainly Haiku 4.5/5.5; also Opus 5.5|Haiku works well for most discussions here, but Opus helped when parsing through deep technicals or academic papers|
+|Model Provider|Anthropic|I already have a Claude subscription. They also invested a lot of effort in ethics and safety early on.|
+|Model|Mainly Haiku 4.5/5.5; also Opus 5.5|Haiku works well for most discussions here, but Opus helped when parsing through deep technicals or academic papers.|
 
 ### Evolution
 

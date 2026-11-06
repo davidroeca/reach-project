@@ -1,7 +1,7 @@
 # Reach project
 
 <div style="text-align:center">
-  <img alt="One instance of Reach" src="./reach-self-portrait/portrait.jpg"></img>
+  <img alt="One instance of Reach" src="./portrait.jpg"></img>
 </div>
 
 ## What is this?
